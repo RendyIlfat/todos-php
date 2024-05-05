@@ -1,0 +1,12 @@
+.navbar-custom {
+    background-image: url(images/bg-menu.png);
+}
+
+li.active {
+    background-image: url(images/bg-menu-hover.png);
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
